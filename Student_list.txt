@@ -1,0 +1,25 @@
+Mridul 
+	(Grade : 8) 
+	(Age : 14) 
+	(Roll no. : 10) 
+	(Address : Muzaffarpur , Bhagwanpur)
+Aditya 
+	(Grade : 8) 
+	(Age : 12) 
+	(Roll no. : 18) 
+	(Address : Gobarsahi , Chanakya Vihar)
+Mrinal 
+	(Grade : 12) 
+	(Age : 18) 
+	(Roll no. : 24) 
+	(Address : New Delhi)
+Aayush 
+	(Grade : 7) 
+	(Age : 17) 
+	(Roll no. : 5) 
+	(Address : Haryana)
+Om 
+	(Grade : 2) 
+	(Age : 12) 
+	(Roll no. : 9) 
+	(Address : New Delhi)
